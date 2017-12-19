@@ -22,7 +22,24 @@ body {
   font: 18px/1.4 $helvetica;
   color: #ffffff;
 }
+table, th, td {
+   border: 2px solid black;
+}table {
+    border-collapse: collapse;
+}
 
+table, th, td {
+    border: 2px solid black;
+}table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}td {
+    height: 50px;
+    vertical-align: bottom;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
