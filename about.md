@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A boy with high dreamss
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A Bucks boy who's ginger 
 
 ### Contact me
 
